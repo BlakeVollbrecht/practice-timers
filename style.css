@@ -1,7 +1,15 @@
 #main {
-  margin-top: 6em;
+  margin: 3rem 0;
 }
 
 #content {
-  margin-top: 3em;
+  margin-top: 3rem;
+}
+
+i {
+  cursor: pointer;
+}
+
+.grid {
+  margin: 0 1rem;
 }
